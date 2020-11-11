@@ -16,7 +16,7 @@ What I want in the technology area is to gather all my knowledge, and apply it i
 - 🌱 I'm currently learning programming (both front-end and back-end)
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=dracula&layout=compact)](https:https://www.linkedin.com/in/marcus-oliveiro/)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=whrite)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=whrite&layout=compact)](https:https://www.linkedin.com/in/marcus-oliveiro/)
 
 ![coragem](https://github.com/MarcusViniciusO/MarcusViniciusO/blob/main/IMG/Coragem.gif)
