@@ -1,21 +1,17 @@
-<h3 align='center'> Hi there 👋</h3>
+<img align="right" width="400" height="400" src="https://github.com/MarcusViniciusO/MarcusViniciusO/blob/main/IMG/Coragem.gif">
 
+# Olá você que me visita, este é o meu GitHub, fique à vontade para explorar!!!
 
-## I'm Marcus Vinicius 😁
+## Eu sou o Marcus Vinicius 😁
 
-- 🌱 I'm currently learning programming (both front-end and back-end)
+### Um pouco sobre mim:
 
-### About me
+Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo ficar em zonas de conforto por longos períodos, e gosto de me sentir útil e desafiado. Aqui você poderá ver alguns dos meu projetos que fiz e participei e acompanhar minha linha de evolução ao longo do tempo!
 
-I worked for many years in the commercial area, dealing with people, using skills and mentalities such as communication and persistence, to succeed in my activities. And now I am in the process of migrating from the area. Basically, I formed my curriculum to work with integrated management systems.
-
-What I want in the technology area is to gather all my knowledge, and apply it in my day to day, in the formation of new applications for clients, use good communication to work in a team, be proactive in dealing with problems and seek always more knowledge. 
-
+## Entre em contato comigo
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-oliveiro/)](https://www.linkedin.com/in/marcus-oliveiro/)
 [![](https://img.shields.io/badge/-outlook-%230078D4?style=flat-square&logo=microsoft-outlook&?labelColor=pink&logoColor=Blue&link=mailto:marcusviniciuso@outlook.com.br)](mailto:marcusviniciuso@outlook.com.br)
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/MarcusViniciusO)
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=whrite)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=whrite&layout=compact)](https:https://www.linkedin.com/in/marcus-oliveiro/)
-
-![coragem](https://github.com/MarcusViniciusO/MarcusViniciusO/blob/main/IMG/Coragem.gif)
