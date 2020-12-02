@@ -1,6 +1,6 @@
 <img align="right" width="400" height="400" src="https://lh3.googleusercontent.com/JjLPrR82cJZe1lP8khMHCw-BHpNasbshDHNg2C5digQILHAmTQPdH8xSBK5SzZRCVopmfr_QyG78KIm6oUNnZNFAnvkn8iRqwPvsKlJqBAjjazqZaqAuLw_m-AbxTnd1neDk6ZwxC6fI9LjG4PzQEkirVVAR8t2LMtrHD36x-fydYivUwvDh2iqESIQ3T6nZXJX1ac1YLEbZ2n1Qy4791bQYC0dmVT1CqVmKDMMPPGFgN_A-yIPiRjF-2bsbXUViMVH-5_Ud_BvgFvI2e1Rin5EkZfA4201ogzaPiVz4Fe-BwVJ0toUtvhp3_BB-gUDMHtjvyBqBTYaXwuhTUFhKD7XLk9hDYQtFkLf14xkJTvQgvm18lIKF82sHVmgPwyjpz_UFUOnyaM7L7yZl1xXmshVifUkQ82DATaHUH62lUtU7Gzr03WWkLbtnPyxnHXrMjvRZn2aR-jQQfXgT2lslAeyRRUCedyiR-ofoknrzyScMg1h6Im53Jid-wphJ8W6TeNhsj7GA-5HF1ryzSZeAXjySCUc8J_s5olbvT2nEIIOOyayZ-RfUu8O5nXs2pWr3QBozeY__PgKhcOmmXyyEAWzF8G4IVP4uxLgEMnzs_8KCfYeyk0ZGlMi8dFf7y8UpHJEHR4gFyUwa7puJ_-CmAewg9P4_zfgVjoJysyG1st0MeHGFICaObnc8rXNggQE=s327-no?authuser=0">
 
-# Olá eu sou o Marcus Vinicius 😁
+# Olá eu sou o Marcus Vinicius 😀
 
 ## Para você que me visita, este é o meu GitHub, fique à vontade para explorar!!!
 
