@@ -1,4 +1,4 @@
-<img align="right" width="400" height="400" src="https://github.com/MarcusViniciusO/MarcusViniciusO/blob/main/IMG/Meu%20trabalho.gif">
+<img align="right" width="400" height="450" src="https://github.com/MarcusViniciusO/MarcusViniciusO/blob/main/IMG/Meu%20trabalho.gif">
 
 # Olá eu sou o Marcus Vinicius 😀
 
