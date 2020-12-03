@@ -6,7 +6,7 @@
 
 ### Um pouco sobre mim:
 
-Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo ficar em zonas de conforto por longos períodos, e gosto de me sentir útil e desafiado. Aqui você poderá ver alguns dos meu projetos que fiz e participei e acompanhar minha linha de evolução ao longo do tempo!
+Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo ficar em zonas de conforto por longos períodos, e gosto de me sentir útil e desafiado. Aqui você poderá ver alguns dos meus projetos que fiz e participei e acompanhar minha linha de evolução ao longo do tempo!
 
 ### Conhecimentos:
 
