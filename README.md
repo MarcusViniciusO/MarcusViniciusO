@@ -26,5 +26,5 @@ Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo
 [![](https://img.shields.io/badge/-outlook-%230078D4?style=flat-square&logo=microsoft-outlook&?labelColor=pink&logoColor=Blue&link=mailto:marcusviniciuso@outlook.com.br)](mailto:marcusviniciuso@outlook.com.br)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/MarcusViniciusO)
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=whrite)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=whrite&layout=compact)](https://www.linkedin.com/in/marcusviniciuso/)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=dark&layout=compact)](https://www.linkedin.com/in/marcusviniciuso/)
