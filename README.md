@@ -27,6 +27,6 @@ Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/MarcusViniciusO)
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=dark)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=write)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=dark&layout=compact)](https://www.linkedin.com/in/marcusviniciuso/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusViniciusO&show_icons=true&theme=write&layout=compact)](https://www.linkedin.com/in/marcusviniciuso/)
