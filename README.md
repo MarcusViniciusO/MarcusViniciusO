@@ -24,7 +24,7 @@ Sou um jovem que gosta de planejar objetivos e buscar realizá-los, não costumo
 ## Entre em contato comigo: 👇
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcus-oliveiro/)](https://www.linkedin.com/in/marcus-oliveiro/)
 [![](https://img.shields.io/badge/-outlook-%230078D4?style=flat-square&logo=microsoft-outlook&?labelColor=pink&logoColor=Blue&link=mailto:marcusviniciuso@outlook.com.br)](mailto:marcusviniciuso@outlook.com.br)
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=link_do_seu_perfil_no_github)](https://github.com/MarcusViniciusO)
+
 
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=MarcusViniciusO&show_icons=true&theme=write)
